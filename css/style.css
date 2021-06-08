@@ -1,0 +1,42 @@
+/*elements*/
+
+/*class*/
+.card-image {
+	width: 250px;
+}
+
+.icon-footer {
+	color: black;
+	padding: 40px 20px;
+}
+.card-type {
+	text-align: center;
+}
+
+.list-name {
+	color: darkred;
+}
+
+.footer-text {
+	padding: 3% 0;
+}
+/*ID*/
+
+#header {
+	color: red;
+	text-align: center;
+	background-color: blue;
+	padding:  7% 15%;
+}
+
+#cards {
+	background-color: #000;
+	padding: 7% 15%;
+}
+
+#footer {
+	text-align: center;
+	background-color: red;
+	pading: 7% 15%;
+}
+
